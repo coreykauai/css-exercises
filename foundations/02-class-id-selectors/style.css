@@ -1,0 +1,22 @@
+#bold-blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd {
+    background-color: rgb(247, 160, 150);
+    font-family: Verdana, DejaVu sans, sans-serif;
+}
+
+.twnyfo {
+    font-size: 24px;
+}
+
+#neon {
+    background-color: rgb(120, 252, 133);
+    font-weight: bold;
+}
+
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
